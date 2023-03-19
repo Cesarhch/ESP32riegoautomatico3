@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <WiFi.h>
-// #include <esp_system.h>
-// #include <esp_timer.h>
+
 
 const char *ssid = "ESP32";
 const char *password = "12345678";
