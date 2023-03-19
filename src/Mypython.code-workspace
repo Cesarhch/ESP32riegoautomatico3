@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Mypython"
+		},
+		{
+			"name": "ESP32ids",
+			"path": "../../ESP32ids"
+		},
+		{
+			"name": "ESP32riegoautomatico3",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

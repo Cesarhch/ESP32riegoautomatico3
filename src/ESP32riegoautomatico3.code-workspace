@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ESP32riegoautomatico2"
+		}
+	],
+	"settings": {}
+}
